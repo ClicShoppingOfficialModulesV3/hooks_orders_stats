@@ -1,5 +1,5 @@
 {
-  "title":			"hooks_orders_batch",
+  "title":			"hooks_orders_stats",
   "type":        "hooks",
   "vendor":			"ClicShopping",
   "is_free":   "no",
@@ -15,7 +15,7 @@
   "type_module":      "Fixe",
  "dependance":       "Orders App",
   "description":      "This apps allow you to create different batch about your order, packingslip, label, suppliers.",
-  "image":            "ModuleInfosJson/orders_batch.png",
+  "image":            "ModuleInfosJson/hooks_orders_stats.png",
 
   "authors": [
     {
