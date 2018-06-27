@@ -14,7 +14,7 @@
   "apps_name":          "Orders",
   "type_module":      "Fixe",
  "dependance":       "Orders App",
-  "description":      "This apps allow you to create different batch about your order, packingslip, label, suppliers.",
+ "description":      "This hooks allow you display different statistique about your order.",
   "image":            "ModuleInfosJson/hooks_orders_stats.png",
 
   "authors": [
