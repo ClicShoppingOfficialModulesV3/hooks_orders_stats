@@ -30,6 +30,6 @@ Go to your order to see to manage you batch
 
 licence  : GPL 2 - MIT
 
-Marketplace link : https://www.clicshopping.net/forum/files/file/22-hooks-orders-stats/
+Marketplace link : https://www.clicshopping.org/forum/files/file/22-hooks-orders-stats/
 
 ![order](https://github.com/ClicShoppingOfficialModulesV3/hooks_orders_stats/blob/master/ModuleInfosJson/hooks_orders_stats.png)
