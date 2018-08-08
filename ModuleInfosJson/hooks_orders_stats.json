@@ -1,7 +1,7 @@
 {
   "title":			"hooks_orders_stats",
   "type":        "hooks",
-  "vendor":			"ClicShopping",
+  "vendor":			"Module",
   "is_free":   "no",
   "is_core": "no",
   "website_link_to_sell" : "",
